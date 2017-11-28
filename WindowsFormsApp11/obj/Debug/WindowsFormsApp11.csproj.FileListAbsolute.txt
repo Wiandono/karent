@@ -8,3 +8,22 @@ C:\Users\ASUS\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\Windows
 C:\Users\ASUS\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
 C:\Users\ASUS\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojResolveAssemblyReference.cache
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form2.resources
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form3.resources
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.Cache
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\MaterialSkin.dll
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\MySql.Data.dll
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\MySql.Data.xml
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.manifest
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.application
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe.manifest
+C:\Users\Theta\Documents\Visual Studio 2017\Projects\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.application
